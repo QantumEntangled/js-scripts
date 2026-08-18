@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         Secure Portal - User Subs
 // @namespace    http://tampermonkey.net/
-// @version      2026-05-28
+// @version      2026-08-18
 // @description  Open the notifications tab automatically when loading a user page.
-// @author       Mikel Farley
+// @author       QantumEntangled
 // @match        https://www.securefirmportal.com/User/EditUser/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=securefirmportal.com
+// @downloadURL  https://raw.githubusercontent.com/QantumEntangled/js-scripts/main/secure-portal/user-subs.js
+// @updateURL    https://raw.githubusercontent.com/QantumEntangled/js-scripts/main/secure-portal/user-subs.js
 // @grant        none
 // ==/UserScript==
 
