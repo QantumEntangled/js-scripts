@@ -1,12 +1,14 @@
 // ==UserScript==
 // @name         Onvio - Avoid Passkey Login
 // @namespace    http://tampermonkey.net/
-// @version      2026-06-24
+// @version      2026-08-18
 // @description  Auto-avoid Passkey for 2-Factor Auth for CS Professional sign-ins
-// @author       Mikel Farley
+// @author       QantumEntangled
 // @match        https://auth.thomsonreuters.com/u/mfa-webauthn-platform-challenge*
 // @match        https://auth.thomsonreuters.com/u/mfa-webauthn-challenge*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=onvio.us
+// @downloadURL  https://raw.githubusercontent.com/QantumEntangled/js-scripts/main/onvio/avoid-passkey-login.js
+// @updateURL    https://raw.githubusercontent.com/QantumEntangled/js-scripts/main/onvio/avoid-passkey-login.js
 // @grant        none
 // ==/UserScript==
 
