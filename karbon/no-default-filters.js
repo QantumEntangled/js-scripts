@@ -1,12 +1,14 @@
 // ==UserScript==
 // @name         Karbon - No Default Time Filters
 // @namespace    http://tampermonkey.net/
-// @version      2025-12-11
+// @version      2026-08-18
 // @description  Automatically remove default filters from Time Entries screen
-// @author       Mikel Farley
+// @author       QantumEntangled
 // @match        https://app2.karbonhq.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=karbonhq.com
 // @require      https://raw.githubusercontent.com/CoeJoder/waitForKeyElements.js/refs/heads/master/waitForKeyElements.js
+// @downloadURL  https://raw.githubusercontent.com/QantumEntangled/js-scripts/main/karbon/no-default-filters.js
+// @updateURL    https://raw.githubusercontent.com/QantumEntangled/js-scripts/main/karbon/no-default-filters.js
 // @grant        none
 // ==/UserScript==
 
