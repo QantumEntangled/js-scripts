@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         Onvio - Prefer OTP 2FA
 // @namespace    http://tampermonkey.net/
-// @version      2026-06-24
+// @version      2026-08-18
 // @description  Auto-click OTP for 2-Factor Auth for CS Professional sign-ins
-// @author       Mikel Farley
+// @author       QantumEntangled
 // @match        https://auth.thomsonreuters.com/u/mfa-login-options*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=onvio.us
+// @downloadURL  https://raw.githubusercontent.com/QantumEntangled/js-scripts/main/onvio/prefer-OTP-2FA.js
+// @updateURL    https://raw.githubusercontent.com/QantumEntangled/js-scripts/main/onvio/prefer-OTP-2FA.js
 // @grant        none
 // @run-at document-idle
 // ==/UserScript==
