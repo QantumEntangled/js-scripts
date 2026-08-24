@@ -7,6 +7,9 @@
 // @match        https://app2.karbonhq.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=karbonhq.com
 // @require      https://raw.githubusercontent.com/CoeJoder/waitForKeyElements.js/refs/heads/master/waitForKeyElements.js
+//
+// @downloadURL  https://raw.githubusercontent.com/QantumEntangled/js-scripts/main/karbon/lnk2budget.js
+// @updateURL    https://raw.githubusercontent.com/QantumEntangled/js-scripts/main/karbon/lnk2budget.js
 // @grant        none
 // ==/UserScript==
 

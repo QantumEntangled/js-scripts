@@ -6,6 +6,8 @@
 // @author       Qantumentangled
 // @match        https://karbonhqprodemail.com/print/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=karbonhqprodemail.com
+// @downloadURL  https://raw.githubusercontent.com/QantumEntangled/js-scripts/main/karbon/email-print-fix.js
+// @updateURL    https://raw.githubusercontent.com/QantumEntangled/js-scripts/main/karbon/email-print-fix.js
 // @grant        none
 // ==/UserScript==
 
