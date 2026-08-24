@@ -48,7 +48,7 @@ function runSteps(steps) {
 function doc_keyUp(e) {
     //console.log(e);
     if (e.ctrlKey && e.shiftKey) {
-        switch (e.key) {
+        switch (e.key.toLowerCase()) {
             case 'q':
                 // Ctrl+Q Complete Work
                 runSteps([
@@ -60,7 +60,7 @@ function doc_keyUp(e) {
         }
     }
     if (e.altKey) {
-        switch (e.key) {
+        switch (e.key.toLowerCase()) {
             case '`':
                 // Alt+` Expand/Collapse Task Sections
                 runSteps([
