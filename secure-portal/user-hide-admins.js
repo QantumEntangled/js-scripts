@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         Secure Portal - Hide Admins
 // @namespace    http://tampermonkey.net/
-// @version      2026-08-24
+// @version      2026-08-27
 // @description  Hide Admins from Subscription Lists
 // @author       QantumEntangled
 // @match        https://www.securefirmportal.com/User/EditUser/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=securefirmportal.com
-// @downloadURL  https://raw.githubusercontent.com/QantumEntangled/js-scripts/main/secure-portal/user-hide-admins.js
-// @updateURL    https://raw.githubusercontent.com/QantumEntangled/js-scripts/main/secure-portal/user-hide-admins.js
+// @downloadURL  https://git.farley.pro/QantumEntangled/tampermonkey-scripts/raw/branch/main/secure-portal/user-hide-admins.js
+// @updateURL    https://git.farley.pro/QantumEntangled/tampermonkey-scripts/raw/branch/main/secure-portal/user-hide-admins.js
 // @grant        GM_setClipboard
 // ==/UserScript==
 
