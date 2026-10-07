@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         Karbon - Shortcuts
 // @namespace    http://tampermonkey.net/
-// @version      2026-08-18
+// @version      2026-08-27
 // @description  Multiple shortcuts for Karbon Work pages
 // @author       QantumEntangled
 // @match        https://app2.karbonhq.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=karbonhq.com
 // @require      https://raw.githubusercontent.com/CoeJoder/waitForKeyElements.js/refs/heads/master/waitForKeyElements.js
-// @downloadURL  https://raw.githubusercontent.com/QantumEntangled/js-scripts/main/karbon/shortcuts.js
-// @updateURL    https://raw.githubusercontent.com/QantumEntangled/js-scripts/main/karbon/shortcuts.js
+// @downloadURL  https://git.farley.pro/QantumEntangled/tampermonkey-scripts/raw/branch/main/karbon/shortcuts.js
+// @updateURL    https://git.farley.pro/QantumEntangled/tampermonkey-scripts/raw/branch/main/karbon/shortcuts.js
 // @run-at       document-start
 // ==/UserScript==
 
