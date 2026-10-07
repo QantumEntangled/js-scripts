@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         Karbon - Lnk2Details
 // @namespace    http://tampermonkey.net/
-// @version      2026-08-18
+// @version      2026-08-27
 // @description  Open to Details tab
 // @author       QantumEntangled
 // @match        https://app2.karbonhq.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=karbonhq.com
 // @require      https://raw.githubusercontent.com/CoeJoder/waitForKeyElements.js/refs/heads/master/waitForKeyElements.js
-// @downloadURL  https://raw.githubusercontent.com/QantumEntangled/js-scripts/main/karbon/lnk2details.js
-// @updateURL    https://raw.githubusercontent.com/QantumEntangled/js-scripts/main/karbon/lnk2details.js
+// @downloadURL  https://git.farley.pro/QantumEntangled/tampermonkey-scripts/raw/branch/main/karbon/lnk2details.js
+// @updateURL    https://git.farley.pro/QantumEntangled/tampermonkey-scripts/raw/branch/main/karbon/lnk2details.js
 // @grant        none
 // ==/UserScript==
 
