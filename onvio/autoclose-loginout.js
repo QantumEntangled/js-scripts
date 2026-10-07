@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         Onvio - Auto-Close Tabs
 // @namespace    http://tampermonkey.net/
-// @version      2026-08-18
+// @version      2026-08-27
 // @description  Auto-Close tabs created from CS Professional sign-outs
 // @author       QantumEntangled
 // @match        https://onvio.us/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=onvio.us
-// @downloadURL  https://raw.githubusercontent.com/QantumEntangled/js-scripts/main/onvio/autoclose-loginout.js
-// @updateURL    https://raw.githubusercontent.com/QantumEntangled/js-scripts/main/onvio/autoclose-loginout.js
+// @downloadURL  https://git.farley.pro/QantumEntangled/tampermonkey-scripts/raw/branch/main/onvio/autoclose-loginout.js
+// @updateURL    https://git.farley.pro/QantumEntangled/tampermonkey-scripts/raw/branch/main/onvio/autoclose-loginout.js
 // @grant        window.close
 // ==/UserScript==
 
